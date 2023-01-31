@@ -1,8 +1,8 @@
-# StudentCourseManageSystem-SpringMVC
+# Student achievement management system-SpringMVC
 
 # 学生成绩管理系统
 
-## 项目名称 ：StudentCourseManageSystem-学生成绩管理系统   
+## 项目名称 ：Student achievement management system-学生成绩管理系统   
 
 ### JavaWeb SpringMVC小课设
 
